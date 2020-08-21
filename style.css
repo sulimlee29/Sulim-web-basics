@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Roboto;
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap);
+}
+
+body {
+  background-color: #072339;
+  font-family: 'Roboto', sans-serif;
+}
+
+#banner {
+  color: white;
+  max-width: 1400px;
+}
+
+#title {
+  padding-bottom: 10px;
+}
+h1 {
+  font-weight: 900;
+}
+
+.subtitle {
+  font-size: 0.6em;
+}
